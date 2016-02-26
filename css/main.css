@@ -368,6 +368,7 @@ a:focus {
 .member {
   margin: 0 40px;
   text-align: center;
+  margin-bottom: 40px;
 }
 .carousel.scale .left-arrow,
 .carousel.scale .right-arrow {
